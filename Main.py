@@ -15,14 +15,14 @@ class Student:
         else:
             alccheck = True
         return print(alccheck)
+
 student = Student(" Adam", 17)
 student1 = Student(" Osel", 55)
 
 # student.showMsg()
 # student1.sayHi("ahoj")
 # student1.sayHi("dobrý denk")
-
-student.checkAlcohol()
+# student.checkAlcohol()
 
 
 
